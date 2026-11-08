@@ -1,0 +1,6 @@
+pandas==2.2.0
+numpy==1.26.4
+scikit-learn==1.4.0
+matplotlib==3.8.2
+kaggle==1.6.5
+shap==0.44.1
